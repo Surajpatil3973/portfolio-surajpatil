@@ -4,7 +4,7 @@ Welcome to my personal portfolio! 🚀
 
 This website highlights my skills, projects, education, and contact info.
 
-🔗 [Live Portfolio](https://yourusername.github.io/my-portfolio)
+🔗 [Live Portfolio]((https://suraj-sphere.netlify.app/)
 
 ## 🛠 Tech Stack
 - HTML5
